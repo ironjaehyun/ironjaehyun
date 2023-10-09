@@ -9,7 +9,7 @@
 
 <h3>🔨기술🔨</h3>
 
-<span>프론트엔드 </span>
+<span>프론트엔드</span>
 <div style = "display:flex; flexdirection:row;">
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
@@ -17,6 +17,8 @@
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 </div>
+
+<span>
 <hr>
 
 <!--
