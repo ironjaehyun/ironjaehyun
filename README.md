@@ -1,7 +1,8 @@
-#### 🔨 Once I've used 🔨
+<h1>김재현</h1>
 
-##### 기술
-<line>
+
+<hr>
+#### 🔨기술🔨
 <div style = "display:flex; flexdirection:row;">
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
@@ -9,7 +10,7 @@
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 </div>
-
+<hr>
 
 <!--
 **ironjaehyun/ironjaehyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
