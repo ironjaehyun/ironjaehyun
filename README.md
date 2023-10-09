@@ -32,7 +32,7 @@
 <hr>
 <h3>Learning to..</h3>
 <div style = "display:flex; flexdirection:row;">
-   <img src="https://img.shields.io/badge/Redux-#764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </div>
 
