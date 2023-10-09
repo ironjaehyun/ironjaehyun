@@ -2,7 +2,7 @@
 
 반갑습니다. 꾸준히 성장해 나가는 개발자 김재현입니다. 
 
-프론트기술에 대해서 공부, 끊임없이 발전해가는 중입니다.
+프론트기술에 대해서 공부, 끊임없이 발전해가는 중입니다.redux
  
 협업은 소통이 기본이라고 생각합니다!
 
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </div>
 <div style = "display:flex; flexdirection:row;">
-   <img src="https://img.shields.io/badge/Redux-#764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+   <img src="https://img.shields.io/badge/tensorflow-#FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </div>
 <hr>
