@@ -33,9 +33,10 @@
 <h3>Learning to..</h3>
 <div style = "display:flex; flexdirection:row;">
    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
 </div>
-
+ 
 <!--
 **ironjaehyun/ironjaehyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
