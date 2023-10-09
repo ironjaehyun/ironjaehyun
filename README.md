@@ -6,8 +6,12 @@
  
 협업은 소통이 기본이라고 생각합니다!
 
-
-<h3>🔨기술🔨</h3>
+<h3>Contact</h3>
+<hr>
+<div style = "display:flex; flexdirection:row;">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
+</div>
+<h3>My stack</h3>
 <hr>
 <div style = "display:flex; flexdirection:row;">
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
