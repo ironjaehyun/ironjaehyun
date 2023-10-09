@@ -5,16 +5,15 @@
 프론트기술에 대해서 공부, 끊임없이 발전해가는 중입니다.
  
 협업은 소통이 기본이라고 생각합니다!
-
-<h3>Contact</h3>
 <hr>
+<h3>Contact</h3>
 <div style = "display:flex; flexdirection:row;">
     <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/>
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </div>
-<h3>My stack</h3>
 <hr>
+<h3>My stack</h3>
 <div style = "display:flex; flexdirection:row;">
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"> 
