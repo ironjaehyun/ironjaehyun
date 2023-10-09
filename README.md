@@ -3,13 +3,10 @@
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-        <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-        <img src="https://img.shields.io/badge/
-        KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
-        <img src="https://img.shields.io/badge/
-        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">   
+        <img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
 </div>
+
+
 <!--
 **ironjaehyun/ironjaehyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
